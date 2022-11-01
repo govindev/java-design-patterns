@@ -1,0 +1,17 @@
+1. Single responsibility principle
+There should not be more than one reason for a class to change.
+
+2. Open close principle
+Software entities (classes, interfaces, methods and etc..) should be open for extension and closed for modification.
+Avoid modifying the base class instead extend the base class and override the methods in the child class
+
+3. Liskov Substitution principle :
+We should be able to substitute Base class objects with Sub class objects and this should not change the behaviour/characteristics of the Program
+
+4. Interface segregation principle :
+Clients should not depend on the Interfaces that don't use
+
+
+5. Dependency Inversion Principle :
+a) High level modules should not depend upon low level modules. Both should depend upon the Abstraction.
+b) Abstraction should depend upon on the Details. Details should depend on the Abstraction.
