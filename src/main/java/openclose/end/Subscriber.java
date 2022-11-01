@@ -1,4 +1,4 @@
-package openclose.done;
+package openclose.end;
 
 //base class - closed for modification
 public abstract class Subscriber {
