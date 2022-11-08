@@ -14,4 +14,4 @@ Clients should not depend on the Interfaces that don't use
 
 5. Dependency Inversion Principle :
 a) High level modules should not depend upon low level modules. Both should depend upon the Abstraction.
-b) Abstraction should depend upon on the Details. Details should depend on the Abstraction.
+b) Abstraction should not depend upon on the Details. Details should depend on the Abstraction.
