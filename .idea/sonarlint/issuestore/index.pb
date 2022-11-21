@@ -256,3 +256,19 @@ X
 :
 
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
+X
+(src/main/java/objectpool/end/Client.java,b/8/b805798ad609fdb8115b46dfbdf2df735b39c479
+W
+'src/main/java/objectpool/end/Image.java,9/3/93161ca0d7acd48ea318b0116df635e4215aafc8
+\
+,src/main/java/objectpool/end/ObjectPool.java,a/4/a42ad1712c6779f97be42411e35062735000a4d4
+Z
+*src/main/java/objectpool/end/Poolable.java,6/e/6eef00a14f41a8007e99ba98d9183565334470fc
+]
+-src/main/java/factorymethod/begin/Client.java,f/5/f5ba22de0beb220243b53359d655759f55c0b28f
+i
+9src/main/java/factorymethod/begin/JSONMessageCreator.java,d/1/d1bfc7ed24d3524767c247ef6714c9d2b33dd68b
+e
+5src/main/java/factorymethod/begin/MessageCreator.java,c/d/cdb33ea9fa7d50c5095c27c183ced03805334d40
+i
+9src/main/java/factorymethod/begin/TextMessageCreator.java,2/9/2952148b301e159809b0a3dc48d7cfef3e085014
