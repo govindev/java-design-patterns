@@ -272,3 +272,7 @@ e
 5src/main/java/factorymethod/begin/MessageCreator.java,c/d/cdb33ea9fa7d50c5095c27c183ced03805334d40
 i
 9src/main/java/factorymethod/begin/TextMessageCreator.java,2/9/2952148b301e159809b0a3dc48d7cfef3e085014
+e
+5src/main/java/adapter/begin/BusinessCardDesigner.java,9/c/9c72472714ca0e6608fedc74d44be0b623a45993
+Y
+)src/main/java/adapter/begin/Customer.java,0/1/012c412e27c5f67551523cb935c7e593f71f4899
