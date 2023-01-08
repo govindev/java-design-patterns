@@ -64,7 +64,11 @@
             <artifactId>commons-text</artifactId>
             <version>1.10.0</version>
         </dependency>
-
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>19</version>
+        </dependency>
     </dependencies>
 
 </project>
