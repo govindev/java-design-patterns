@@ -1,4 +1,4 @@
-package dummy;
+package miscellenious.command;
 
 public class AddMemberCommand implements Command {
     private final String firstName;

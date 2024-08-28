@@ -1,4 +1,4 @@
-package dummy;
+package miscellenious.command;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package dummy;
+package miscellenious.command;
 
 public class EWSService {
     public void addMember(String firstName, String emailAddress) {
