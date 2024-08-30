@@ -2,7 +2,7 @@ package miscellenious.factorymethod;
 
 public class JsonMessageCreator extends MessageCreator {
     @Override
-    public Message getMessage() {
+    public Message createMessage() {
         return new JsonMessage();
     }
 }
