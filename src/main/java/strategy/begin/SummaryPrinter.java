@@ -1,6 +1,4 @@
-package strategy.start;
-
-import java.util.Collection;
+package strategy.begin;
 
 //Concrete strategy
 public class SummaryPrinter {

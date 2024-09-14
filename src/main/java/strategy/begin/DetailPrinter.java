@@ -1,8 +1,4 @@
-package strategy.start;
-
-import java.util.Collection;
-import java.util.Iterator;
-import java.util.Map;
+package strategy.begin;
 
 //public class DetailPrinter implements OrderPrinter {
 //
